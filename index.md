@@ -13,6 +13,7 @@ layout: homepage
 
 ## Berufserfahrungen
 
+- <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/institut/berufsbegleitende-weiterbildung-geodatenmanager-in/kontakt/"><autocolor>Wissenschaftlicher Mitarbeiter</autocolor></a>,  Arbeitsgruppe Geoinformatik/GIS, **Universität Tübingen**
 - Wissenschaftlicher Mitarbeiter, Arbeitsgruppe Geoinformatik/GIS, **Universität Tübingen**
 - Dozent - GIS für geowissenschaftliche Anwendungen, Institut für Geowissenschaften, **Universität Heidelberg**
 - GIS-Spezialist, Amt für Vermessung und Geoinformation, **Landratsamt Esslingen**
