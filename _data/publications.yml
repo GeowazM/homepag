@@ -1,29 +1,28 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
   - title: "Klima wandelt Wald - der Wald im Zeichen der Dürre"
     authors: <strong>Blersch, M.</strong>; Keller, J.; Plass, C. & Siegmund, A.
     conference_short: 2025 - Diercke Methoden
     conference: In Diercke Methoden - Exkursionen im Geographieunterricht, Schmalor, H.; Ciprina, S.; Jebbink, K. (2025).
     pdf: https://www.westermann.de/artikel/978-3-14-100922-4/Diercke-Methoden-Exkursionen-im-Geographieunterricht
     notes: Kapitel
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/schwetz.png
+
+  - title: When another one bites the dust - Environmental impact of global copper demand on local communities in the Atacama mining hotspot as registered by tree rings
+    authors: Nicolás C. Zanetta-Colombo, Tobias Scharnweber, Duncan A. Christie, Carlos A. Manzano, <strong>Mario Blersch</strong>, Eugenia M. Gayo, Ariel A. Muñoz, Zoë L. Fleming, Marcus Nüsser
+    conference_short: 2024 - Science of The Total Environment
+    conference: In Science of The Total Environment, vol. 920 (2024).
+    pdf: https://www.sciencedirect.com/science/article/pii/S0048969724010933?via%3Dihub
+    code: https://github.com/GeowazM/when_another_one_bites_the_dust
+    image: ./assets/img/chile.png
+    notes: Artikel
 
   - title: "Einfluss von Alter, Anzahl mobiler Endgeräte und Festlegung der Interaktionsräume auf die intrinsische Motivation bei App-gestützten Exkursionen mit Satellitenbildern"
     authors: Keller, J.; Heger, J.; Petersen, M.; <strong>Blersch, M.</strong> & Siegmund, A.
     conference_short: 2025 - GW Unterricht
     conference: In GW Unterricht 176 (4/2024), pp. 35-51 (2025).
     pdf: hhttps://austriaca.at/?arp=0x003fc9b6
-    notes: Kapitel
+    notes: Artikel
     image: ./assets/img/teaser_example.png
 
   - title: "The Network of UNESCO Sites: Changes and Patterns Visualised with Cartograms"
@@ -42,4 +41,4 @@ main:
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-21731-9_13
     code: https://github.com/GeowazM/The-Network-of-UNESCO-Sites_Changes-Patterns-visualized-with-Cartograms
     notes: Kapitel
-    image: ./assets/img/UNESCO_sites_overview.png
+    image: ./assets/img/satelbild.png
