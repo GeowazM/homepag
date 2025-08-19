@@ -8,8 +8,8 @@ layout: homepage
 
 ## Ausbildung
 
-- **M.Sc.:** in Geographie/Geoinformatik | Ruprecht-Karls-Universität Heidelberg, 2020
-- **B.Sc.:** in Geographie | Eberhard Karls Universität Tübingen, 2017
+- **M.Sc.:** in Geographie/Geoinformatik, Ruprecht-Karls-Universität Heidelberg, 2020
+- **B.Sc.:** in Geographie, Eberhard Karls Universität Tübingen, 2017
 
 ## Erfahrungen
 
