@@ -10,13 +10,22 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Klima wandelt Wald - der Wald im Zeichen der Dürre"
+    authors: <strong>Blersch, M.</strong>; Keller, J.; Plass, C. & Siegmund, A.
+    conference_short: 
+    conference: In Diercke Methoden - Exkursionen im Geographieunterricht, 2025.
+    pdf: https://www.westermann.de/artikel/978-3-14-100922-4/Diercke-Methoden-Exkursionen-im-Geographieunterricht
+    page: https://www.westermann.de/artikel/978-3-14-100922-4/Diercke-Methoden-Exkursionen-im-Geographieunterricht
+    notes: Kapitel
     image: ./assets/img/teaser_example.png
+
+  - title: "The Network of UNESCO Sites: Changes and Patterns Visualised with Cartograms"
+    authors: <strong>Blersch, M.</strong>; Keller, J.; Matusch, T.; Dannwoolf, L. & Siegmund, A.
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: http://dx.doi.org/10.1007/978-3-031-21731-9_13
+    code: https://github.com/GeowazM/The-Network-of-UNESCO-Sites_Changes-Patterns-visualized-with-Cartograms
+    page: http://dx.doi.org/10.1007/978-3-031-21731-9_13
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Kapitel
+    image: https://github.com/GeowazM/The-Network-of-UNESCO-Sites_Changes-Patterns-visualized-with-Cartograms/blob/main/images/UNESCO_sites_overview.png
