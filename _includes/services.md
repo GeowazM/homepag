@@ -9,5 +9,5 @@
   <li><a href="https://www.suedwissen.de/weiterbildung-finden/it/geodatenmanager-in-670"><autocolor>2025: WebGIS, Zertifikatsstudium Geodatenmanager/-in, Universität Tübingen</autocolor></a></li>
   <li><a href="https://github.com/GeowazM/Remote_Sensing_in_QGIS"><autocolor>2023: Fernerkundung in QGIS, ASA-Programm, GIS-Station, Pädagogische Hochschule Heidelberg</autocolor></a></li>
   <li><a href="https://github.com/GeowazM/Short_introduction_to_UAV_mapping"><autocolor>2023: Workshop UAV Mapping, GIS-Station, Pädagogische Hochschule Heidelberg</autocolor></a></li>
-  <li><a href="https://geospektiv2go.rgeo.de/blifexplorer/"><autocolor>2020 - 2024: GIS & Fernerkundungskurse für Schulen, GIS-Station, Pädagogische Hochschule Heidelberg</autocolor></a></li>
+  <li><a href="https://geospektiv2go.rgeo.de/blifexplorer/"><autocolor>2020 - 2024: GIS & Fernerkundungskurse für Schulen (Präsenz, eLearning, Webinare), GIS-Station, Pädagogische Hochschule Heidelberg</autocolor></a></li>
 </ul>

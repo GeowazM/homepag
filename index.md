@@ -18,10 +18,6 @@ layout: homepage
 - GIS-Spezialist, Amt für Vermessung und Geoinformation, **Landratsamt Esslingen**
 - <a href="https://www.rgeo.de/de/p/blersch/"><autocolor>Akademischer Mitarbeiter, GIS-Station, Research Group for Earth Observation (rgeo)</autocolor></a>,  <strong>Pädagogische Hochschule Heidelberg</strong>
 
-https://www.landkreis-esslingen.de/,Lde/start/service/Vermessung.html
-
-https://www.rgeo.de/de/p/blersch/
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
