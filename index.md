@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Themen
 
 🗺 GIS | 🛰 Fernerkundung | 🌐 Geodaten | 🎓 Bildung
 
@@ -11,7 +11,7 @@ layout: homepage
 - **M.Sc.:** in Geographie/Geoinformatik, Ruprecht-Karls-Universität Heidelberg, 2020
 - **B.Sc.:** in Geographie, Eberhard Karls Universität Tübingen, 2017
 
-## Erfahrungen
+## Berufserfahrungen
 
 - Wissenschaftlicher Mitarbeiter, Arbeitsgruppe Geoinformatik/GIS, Universität Tübingen
 - Dozent - GIS für geowissenschaftliche Anwendungen, Institut für Geowissenschaften, Universität Heidelberg
