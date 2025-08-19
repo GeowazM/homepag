@@ -79,7 +79,7 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/
 cv_link: files/Curriculum_Vitae.pdf
 github_link: https://github.com/GeowazM/
-linkedin: https://www.linkedin.com/feed/
+linkedin: https://www.linkedin.com/in/mario-blersch-b6090b200/
 twitter: https://twitter.com/
 
 # Bilder (z. B. Ihr Profilbild und das Favicon Ihrer Website)
