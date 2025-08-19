@@ -12,20 +12,34 @@ main:
 
   - title: "Klima wandelt Wald - der Wald im Zeichen der Dürre"
     authors: <strong>Blersch, M.</strong>; Keller, J.; Plass, C. & Siegmund, A.
-    conference_short: 
-    conference: In Diercke Methoden - Exkursionen im Geographieunterricht, 2025.
+    conference_short: 2025 - Diercke Methoden
+    conference: In Diercke Methoden - Exkursionen im Geographieunterricht, Schmalor, H.; Ciprina, S.; Jebbink, K. (2025).
     pdf: https://www.westermann.de/artikel/978-3-14-100922-4/Diercke-Methoden-Exkursionen-im-Geographieunterricht
-    page: https://www.westermann.de/artikel/978-3-14-100922-4/Diercke-Methoden-Exkursionen-im-Geographieunterricht
+    notes: Kapitel
+    image: ./assets/img/teaser_example.png
+
+  - title: "Einfluss von Alter, Anzahl mobiler Endgeräte und Festlegung der Interaktionsräume auf die intrinsische Motivation bei App-gestützten Exkursionen mit Satellitenbildern"
+    authors: Keller, J.; Heger, J.; Petersen, M.; <strong>Blersch, M.</strong> & Siegmund, A.
+    conference_short: 2025 - GW Unterricht
+    conference: In GW Unterricht 176 (4/2024), pp. 35-51 (2025).
+    pdf: hhttps://austriaca.at/?arp=0x003fc9b6
     notes: Kapitel
     image: ./assets/img/teaser_example.png
 
   - title: "The Network of UNESCO Sites: Changes and Patterns Visualised with Cartograms"
-    authors: <strong>Blersch, M.</strong>; Keller, J.; Matusch, T.; Dannwoolf, L. & Siegmund, A.
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    pdf: http://dx.doi.org/10.1007/978-3-031-21731-9_13
+    authors: <strong>Blersch, M.</strong>; Keller, J.; Matusch, T.; Dannwolf, L. & Siegmund, A.
+    conference_short: 2023 - Historical GIS
+    conference: In Creative Ways to apply Historical GIS (2023).
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-21731-9_13
     code: https://github.com/GeowazM/The-Network-of-UNESCO-Sites_Changes-Patterns-visualized-with-Cartograms
-    page: http://dx.doi.org/10.1007/978-3-031-21731-9_13
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Kapitel
-    image: https://github.com/GeowazM/The-Network-of-UNESCO-Sites_Changes-Patterns-visualized-with-Cartograms/blob/main/images/UNESCO_sites_overview.png
+    image: ./assets/img/UNESCO_sites_overview.png
+
+  - title: "Satellitenbilder im Geographieunterricht: Von den Folgen zu den Ursachen von El Niño"
+    authors: Keller, J.; <strong>Blersch, M.</strong>; Dannwolf, L.; Plass, C. & Siegmund, A.
+    conference_short: 2023 - Geographiedidaktik
+    conference: In Geographiedidaktik, Gryl et al. (2023).
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-21731-9_13
+    code: https://github.com/GeowazM/The-Network-of-UNESCO-Sites_Changes-Patterns-visualized-with-Cartograms
+    notes: Kapitel
+    image: ./assets/img/UNESCO_sites_overview.png
