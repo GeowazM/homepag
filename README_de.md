@@ -78,13 +78,13 @@ canonical: https://minimal-light-theme.yliu.me/
 # Wenn Sie eine davon nicht benötigen, können Sie die entsprechende Zeile löschen.
 google_scholar: https://scholar.google.com/
 cv_link: files/Curriculum_Vitae.pdf
-github_link: https://github.com/GeowazM/
-linkedin: https://www.linkedin.com/in/mario-blersch-b6090b200/
+github_link: https://github.com/
+linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
 # Bilder (z. B. Ihr Profilbild und das Favicon Ihrer Website)
 # "favicon" und "favicon_dark" werden für den Hell- bzw. Dunkelmodus verwendet.
-avatar: ./assets/img/avatar_v2.png
+avatar: ./assets/img/avatar.png
 favicon: ./assets/img/location.png
 favicon_dark: ./assets/img/location.png
 
